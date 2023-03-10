@@ -50,6 +50,7 @@ export default function Form() {
    }
    
     
+   
   return (
     <section className='contact'>
         <h2 className='contact__titre'>Contact us</h2>
